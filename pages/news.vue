@@ -20,7 +20,11 @@
 
 <script>
 export default {
-  head: {}
+  head () {
+    return {
+      title: 'News | LOREM IPSUM'
+    }
+  }
 }
 </script>
 
