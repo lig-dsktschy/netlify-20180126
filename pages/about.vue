@@ -10,7 +10,7 @@
       </nav>
     </header>
     <main>
-      <h1>Top</h1>
+      <h1>About</h1>
     </main>
     <footer>
       <small>&copy; 2017 LOREM IPSUM</small>
