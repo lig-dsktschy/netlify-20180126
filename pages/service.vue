@@ -2,11 +2,11 @@
   <div>
     <header>
       <nav>
-        <a href="/">Top</a>
-        <a href="/news">News</a>
-        <a href="/about">About</a>
-        <a href="/service">Service</a>
-        <a href="/contact">Contact</a>
+        <nuxt-link to="/">Top</nuxt-link>
+        <nuxt-link to="/news">News</nuxt-link>
+        <nuxt-link to="/about">About</nuxt-link>
+        <nuxt-link to="/service">Service</nuxt-link>
+        <nuxt-link to="/contact">Contact</nuxt-link>
       </nav>
     </header>
     <main>
