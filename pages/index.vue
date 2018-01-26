@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
     <h1 class="heading">
-      <span>づ</span>
+      <span>ず</span>
       <span>や</span>
       <span>か</span>
       <span>い</span>
