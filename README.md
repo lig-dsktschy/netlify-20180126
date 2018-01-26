@@ -1,4 +1,4 @@
-# nuxt-20171226
+# netlify-20180126
 
 > Nuxt.js project
 
